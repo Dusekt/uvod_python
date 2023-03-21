@@ -175,5 +175,5 @@ def create_dungeon(width, height, **kwargs):
         for char in line:
             print(char, end="")
 
-#haha
+#ha
 create_dungeon(80, 20)
