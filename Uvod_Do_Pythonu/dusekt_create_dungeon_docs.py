@@ -177,5 +177,3 @@ def create_dungeon(width, height, **kwargs):
 
 
 create_dungeon(40, 20)
-
-
