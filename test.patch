@@ -1,0 +1,15 @@
+Index: Uvod_Do_Pythonu/Dungeon.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Uvod_Do_Pythonu/Dungeon.py b/Uvod_Do_Pythonu/Dungeon.py
+--- a/Uvod_Do_Pythonu/Dungeon.py	(revision f5de0929455d2e68a7fb8200e9b602c6574c1133)
++++ b/Uvod_Do_Pythonu/Dungeon.py	(revision 9b044423d259aae26112cfc26adfd679c7d3c323)
+@@ -1,3 +1,3 @@
+ #awdawdbjkbkjl
+ #vezrze 2e2
+-#cgjvhkbn
+\ No newline at end of file
++#cgjvhkbnqwqdqddwqd
+\ No newline at end of file
