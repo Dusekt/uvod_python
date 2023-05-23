@@ -883,7 +883,7 @@ class Dungeon(AbstractDungeon):
 
         positions = random.sample(self.empty_space, len(self.start_item))
         # random number of items, in range of 1/2 of maximum number of items, minimum 2
-        idx_choices = random.randint(2, len(self.start_item)//2)
+        idx_choices = random.randint(2, len(self.start_item))
         item_choices = list(self.start_item.keys())
         # read class name of the items
         for idx in range(idx_choices):
